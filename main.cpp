@@ -1,8 +1,8 @@
-// Programa que permite hallar las curvas de nivel de un terreno por el metodo de cuadrícula,
+// Programa que permite hallar las curvas de nivel de un terreno por el metodo de cuadrÃ­cula,
 // a partir de los datos tomados en campo
 
 // 2021-04-17
-// Cristian Santiago Tovar  <ctovar@unal.edu.co>
+// Cristian Santiago Tovar Bejarano <ctovar@unal.edu.co>
 
 # include <iostream>    // Input/Output Stream:  cin, cout etc.
 # include  <fstream>    // Para leer y escribir en archivos.
@@ -10,13 +10,13 @@
 # include <cmath>         // math.h: pow(x,y), fabs(x), abs(x), cos(x), sin(x), acos(x), exp(x), log(x), log10(x) etc.
 
 # include <iomanip>     // Input/output manipulators - formateo de salida: setw etc.
-# include <cstdio>         // standard input-output : printf: %d ó %i: integer, %f: float, %lf: double, %e - %E: exponente, %c: char, %s:string
+# include <cstdio>         // standard input-output : printf: %d Ã³ %i: integer, %f: float, %lf: double, %e - %E: exponente, %c: char, %s:string
 # include <cstdlib>      // stdlib.h: standard library; para:  system ("pause") etc.;
 # include <sstream>
 
 
 #define PI 3.14159265
-using namespace std;  // si no se usa --> usar extensión ".h" ej: # include <iostream.h>
+using namespace std;  // si no se usa --> usar extensiÃ³n ".h" ej: # include <iostream.h>
 
 // PARTE EDITABLE.........................
 
