@@ -1,5 +1,5 @@
 // Programa que permite hallar las curvas de nivel de un terreno por el metodo de cuadrícula,
-// a partir de los datos tomados en campo
+// a partir de los datos tomados en campo y además genera la nube de puntos lista para insertar en Autocad 
 
 // 2021-04-17
 // Cristian Santiago Tovar Bejarano <ctovar@unal.edu.co>
